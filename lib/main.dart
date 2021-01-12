@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           title: Text('Demo app'),
         ),
        body: WebView(
-         initialUrl: 'https://www.amazon.es',
+         initialUrl: 'https://www.okelan.es/',
          javascriptMode: JavascriptMode.unrestricted,
        )
       ),
